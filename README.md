@@ -1,4 +1,4 @@
-### Opa! Eu sou o Ycaro Silva, estudante de Tecnologia da Informação na Faculdade das Américas ✊
+### Oba! Eu sou o Ycaro Silva, estudante de Tecnologia da Informação na Faculdade das Américas ✊
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://br.linkedin.com/in/ycaro-silva-688a2917a)
 
